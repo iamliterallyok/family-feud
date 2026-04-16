@@ -22,11 +22,8 @@ A fully customizable Family Feud game built with HTML, CSS, and JavaScript. Sing
 | `Y` | Steal success | `N` | Steal failed |
 | `Esc` | Toggle help |
 
-## 🚀 Host on GitHub Pages
-1. Create a new public repo on GitHub
-2. Upload `index.html` and `README.md`
-3. Go to Settings → Pages → Source: `main`, `/ (root)` → Save
-4. Visit `https://YOUR-USERNAME.github.io/REPO-NAME/`
+## 🚀 LINK
+https://naikkusu.github.io/family-feud/
 
 ## 🎲 How to Play
 1. Set up teams and add questions (or load presets)
